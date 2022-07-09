@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 ' WILLIAM VANN HOMEWORK #2
 
 Sub HW2FINALLY():
